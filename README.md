@@ -1,8 +1,8 @@
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:8A2BE2&height=200&section=header&text=Vengatesh%20Perumal&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20%7C%20MERN%20Stack%20Enthusiast&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:8A2BE2&height=200&section=header&text=Vengatesh%20Perumal&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer&descAlignY=55&descSize=18" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Vengatesh;Full+Stack+Web+Developer+%F0%9F%92%BB;MERN+Stack+Enthusiast+%F0%9F%9A%80;Competitive+Programmer+%E2%9A%A1;Always+Learning+%26+Building+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Vengatesh;Full+Stack+Web+Developer+%F0%9F%92%BB;Competitive+Programmer+%E2%9A%A1;Always+Learning+%26+Building+%F0%9F%8C%B1" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -161,4 +161,6 @@
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00D9FF&height=120&section=footer" />
+
+
 
