@@ -23,8 +23,8 @@
 - 🎓 B.E. Computer Science and Engineering, PSNA CET, Dindigul (2024 – 2028)
 - 🔭 I'm working on **Full Stack Web Development**
 - 📚 I'm currently learning the **MERN Stack**
-- 💻 I love building **modern web applications**
-- ⚡ In my free time, I solve **coding problems**
+- 💻 Building **full-stack web applications**
+- ⚡ Solving problems using **Java**
 - 🚀 Always **learning, building, and improving**
 - 🌱 Open to collaborating on exciting projects
 
@@ -117,6 +117,7 @@
 
 - Database Management System — NPTEL Online (2026)
 - Introduction to MongoDB — MongoDB Online (2026)
+- Java Programming — Oracle (2025)
 
 </div>
 
@@ -161,6 +162,3 @@
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00D9FF&height=120&section=footer" />
-
-
-
