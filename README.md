@@ -1,4 +1,3 @@
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:8A2BE2&height=200&section=header&text=Vengatesh%20Perumal&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer&descAlignY=55&descSize=18" />
 
 <p align="center">
@@ -83,14 +82,6 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45" alt="Jupyter" title="Jupyter" />
 
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:8A2BE2&height=3" />
-
-<h3 align="center">🔥 GitHub Streak</h3>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=vengatesh45-max&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub streak graph" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:8A2BE2&height=3" />
